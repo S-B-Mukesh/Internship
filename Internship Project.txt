@@ -1,0 +1,35 @@
+*_Movie Ticketing Bot Powered by IBM Watson Assistant_*
+
+Steps For Doing *_S.B. Mukesh_* Project
+
+1. What is a chatbot and how does it work?
+
+https://youtu.be/38sL6pADCog
+
+2. Watson Assistant Tooling Overview
+
+https://youtu.be/h-u-5f8fZtc
+
+3. How to build intents in your chatbot with Watson Assistant
+
+https://youtu.be/OPdOCUPGMIQ
+
+4. How to build entities in your chatbot with Watson Assistant
+
+https://youtu.be/o-uhdw6bIyI
+
+5. How to build dialog in your chatbot with Watson Assistant
+
+https://youtu.be/XkhAMe9gSFU
+
+6. Create Watson assistant service and create your Assistant
+
+https://youtu.be/OfFNZNu-Vbk
+
+7. MovieTicketBookingBot
+
+https://www.youtube.com/watch?v=kFISG8YCtK0
+
+8. Create Preview link for IBM Watson Assistant
+
+https://youtu.be/zrF2NfalwU8
